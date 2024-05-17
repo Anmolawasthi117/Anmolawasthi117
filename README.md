@@ -5,7 +5,7 @@
 - 📫 How to reach me anmolawasthi117@gmail.com
 - 😄 Pronouns: siranmol
 - ⚡ Fun fact: i am a software Engineer
-- 😶‍🌫️ my portfolio https://anmol-portfolio-swart.vercel.app/
+- 😶‍🌫️ my portfolio: https://anmol-s-portfolio-ten.vercel.app/
 <!---
 Anmolawasthi117/Anmolawasthi117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
