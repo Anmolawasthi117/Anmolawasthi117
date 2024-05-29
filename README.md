@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any type of website wich provid me a chalenge
 - 📫 How to reach me anmolawasthi117@gmail.com
 - 😄 Pronouns: siranmol
-- ⚡ Fun fact: i am a software Engineer
+- ⚡ Fun fact: i am a web devloper
 - 😶‍🌫️ my portfolio: https://anmol-s-portfolio-ten.vercel.app/
 <!---
 Anmolawasthi117/Anmolawasthi117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
